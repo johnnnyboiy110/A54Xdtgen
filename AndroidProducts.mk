@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_a54x.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_a54x-user \
-    twrp_a54x-userdebug \
-    twrp_a54x-eng
+    OFRP_a54x-user \
+    OFRP_a54x-userdebug \
+    OFRP_a54x-eng

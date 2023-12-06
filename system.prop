@@ -1,1 +1,4 @@
-ro.boot.dynamic_partitions = true
+ro.display.series=Samsung Galaxy A54x 5G
+ro.product.board=s5e8835
+ro.board.platform=universal8835
+#fbe.metadata.wrappedkey=true

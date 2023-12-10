@@ -1,4 +1,6 @@
-ro.display.series=Samsung Galaxy A54x 5G
+ro.display.series=Samsung A54 5G
 ro.product.board=s5e8835
 ro.board.platform=universal8835
-#fbe.metadata.wrappedkey=true
+sys.usb.controller=13200000.dwc3
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=13500000.ufs
